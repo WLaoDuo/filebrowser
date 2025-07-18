@@ -46,7 +46,7 @@ export function detectLocale(): string {
     'ja': 'ja',
     'zh-tw': 'zhTW',
     'zh-cn': 'zhCN',
-    'zh': 'zhCN',
+    // 'zh': 'zhCN',
     'de': 'de',
     'ro': 'ro',
     'ru': 'ru',
