@@ -36,7 +36,7 @@ jobs:
         with:
           # path: ./dist/* #全部文件一股脑打包，太臃肿
           path: |
-            dist/*
+            ./backend/dist/*
 
   # push_release_to_registry:
   #   name: Push release
