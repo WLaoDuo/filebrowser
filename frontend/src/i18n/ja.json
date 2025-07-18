@@ -149,7 +149,7 @@
     "lastModified": "最后修改",
     "move": "移动",
     "moveMessage": "请选择欲移动至的目录：",
-    "newArchetype": "创建一个基于原型的新帖子。您的文件将会创建在内容文件夹中。",
+    "newArchetype": "创建一个基于原型的新帖子，您的文件将会创建在内容文件夹中。",
     "newDir": "新建目录",
     "newDirMessage": "请输入新目录的名称。",
     "newFile": "新建文件",
